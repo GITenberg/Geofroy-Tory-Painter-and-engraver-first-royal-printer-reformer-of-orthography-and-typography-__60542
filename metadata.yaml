@@ -1,0 +1,44 @@
+_repo: Geofroy-Tory-Painter-and-engraver-first-royal-printer-reformer-of-orthography-and-typography-__60542
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ives, George Burnham
+    alias: Ives, George B.
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '9437'
+    url: http://www.gutenberg.org/2009/agents/9437
+    wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+creator:
+  author:
+    agent_name: Bernard, Auguste
+    alias: Bernard, Auguste Joseph
+    birthdate: 1811
+    deathdate: 1868
+    gutenberg_agent_id: '51006'
+    url: http://www.gutenberg.org/2009/agents/51006
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Bernard_(historien)
+description: 'Translation of: Geofroy Tory, peintre et graveur, premier imprimeur
+  royal, réformateur de l''orthographe et de la typographie sous François Ier'
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60542'
+  lccn: 09010130
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Imprints'
+- !lcc 'Z'
+- !lcsh 'Printers -- France -- Biography'
+- !lcsh 'Tory, Geoffroy, approximately 1480-approximately 1533'
+- !lcsh 'Early printed books -- France -- 16th century -- Bibliography'
+- !lcsh 'Printing -- France -- History -- 16th century'
+- !lcsh 'Artists -- France -- Biography'
+- !lcsh 'French language -- Reform'
+- GITenberg
+title: "Geofroy Tory\r\nPainter and engraver; first royal printer; reformer of orthography\
+  \ and typography under François I."
+url: http://www.gutenberg.org/ebooks/60542
