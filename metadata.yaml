@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9437'
     url: http://www.gutenberg.org/2009/agents/9437
     wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+covers:
+- cover_type: archival
+  image_path: 60542-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Bernard, Auguste
@@ -20,6 +23,8 @@ creator:
     wikipedia: https://fr.wikipedia.org/wiki/Auguste_Bernard_(historien)
 description: 'Translation of: Geofroy Tory, peintre et graveur, premier imprimeur
   royal, réformateur de l''orthographe et de la typographie sous François Ier'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60542#Geofroy-Tory-Painter-and-engraver-first-royal-printer-reformer-of-orthography-and-typography-_
 gutenberg_issued: '2019-10-21'
 gutenberg_type: Text
 identifiers:
